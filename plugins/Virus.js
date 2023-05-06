@@ -78,7 +78,7 @@ var liveLocation = generateWAMessageFromContent(from, proto.Message.fromObject({
 "liveLocationMessage": {
 "degreesLatitude": -6.9367014,
 "degreesLongitude": 107.7228574,
-"caption": `© Guru`,
+"caption": `© Pain`,
 "sequenceNumber": "1657237469254001",
 "jpegThumbnail": imagen4,
 }}), { userJid: from, quoted: doc })
