@@ -52,17 +52,17 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *SIJITH*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/si_jith
 ▢ WhatsApp :
   • (NO NEED) 
 ▢ GitHub :
-  • https://github.com/Guru322
+  • *നോക്കിയിരുന്നോ ഇപ്പോകിട്ടും 😂*
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • telegram.me/moviecomplexofficial
 ▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • https://youtube.com/@lightdarkedits1072
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
