@@ -57,7 +57,7 @@ global.fgsc = 'https://telegram.me/Moviecomplexofficial'
 global.fgyt = 'https://telegram.me/moviecomplexofficial'
 global.fgpyp = 'https://telegram.me/moviecomplexofficial'
 global.fglog = 'https://graph.org/file/bdbd277fa00f864120cd0.jpg' 
-global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://pain:pain@pain.blj01wa.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*Please Wait*'
 global.rwait = '⌛'
